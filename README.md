@@ -78,8 +78,8 @@ Trust Center - https://www.microsoft.com/trustcenter/ <br>
 STP - https://servicetrust.microsoft.com/ <br>
 Azure Government - https://azure.microsoft.com/en-us/global-infrastructure/government/ <br>
 Azure China 21Vianet - https://docs.microsoft.com/en-us/azure/china/ <br>
-M
-## odule 4
+
+## Module 4
 
 Azure subscription offers - https://azure.microsoft.com/en-us/support/legal/offer-details/ <br>
 Azure free accounts - https://azure.microsoft.com/en-us/free/ <br>
