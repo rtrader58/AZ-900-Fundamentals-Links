@@ -1,4 +1,4 @@
-Module 1
+# Module 1
 
 Cloud computing - https://azure.microsoft.com/en-us/overview/what-is-cloud-computing <br>
 There is a term reference guide available at https://azure.microsoft.com/en-us/overview/cloud-computing-dictionary/ <br>
@@ -6,7 +6,7 @@ What are public, private, and hybrid clouds? - https://azure.microsoft.com/en-us
 For more information on IaaS, visit https://azure.microsoft.com/en-us/overview/what-is-iaas/ <br>
 For more information on PaaS, see https://azure.microsoft.com/en-us/overview/what-is-paas/ <br>
 For more information on SaaS, see https://azure.microsoft.com/en-us/overview/what-is-saas/ <br>
-#
+
 # Module 2
 
 A list of regions and their locations is available at https://azure.microsoft.com/en-us/global-infrastructure/regions/ <br>
